@@ -12,7 +12,7 @@ Insights and recommendations are provided on the following key areas:
 
 The complete dataset sourced and the initial data cleaning steps can be found here [[link](https://www.kaggle.com/datasets/manishabhatt22/marketing-campaign-performance-dataset)].
 
-The Executive Dashboard used to report and explore campaign metrics can be found here [link].
+The Executive Dashboard used to report and explore campaign metrics can be found here [[link](https://github.com/kdy0820/cpa_optimization/blob/c3d7c9204c8a5b3ab26c694ac1b20e29083221c1/cpa_optimization_dashboard.png)].
 
 
 # Data Structure & Initial Checks
