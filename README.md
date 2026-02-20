@@ -30,6 +30,8 @@ The main database structure for this analysis consists of four primary sheets co
 
 Our static bidding strategy is creating severe capital inefficiencies due to daily market fluctuations. We identified a massive "bleed point" on Fridays driven by intense bid competition, alongside a highly underutilized efficiency window on Saturdays. By pivoting to a dynamic "Day-Parting" strategy and shifting 20% of the Friday budget to Saturday, NexGen Systems is projected to reduce its blended CPA by 12% while maintaining our current lead volume.
 
+See image below for the Excel dashboard:
+<img width="1108" height="630" alt="cpa_optimization_dashboard" src="https://github.com/user-attachments/assets/2b14a8b0-f9e5-44cb-afa1-3d7349fea117" />
 
 # Insights Deep Dive
 ### Category 1: Inefficiency Detection & Friday Spikes
