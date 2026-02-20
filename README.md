@@ -10,11 +10,9 @@ Insights and recommendations are provided on the following key areas:
 - **Category 3:** Audience Segmentation Behavior
 - **Category 4:** Strategic Optimization & Reallocation
 
-The complete dataset sourced and the initial data cleaning steps can be found here [link].
+The complete dataset sourced and the initial data cleaning steps can be found here [[link](https://www.kaggle.com/datasets/manishabhatt22/marketing-campaign-performance-dataset)].
 
-The Excel-based variance models and advanced tracking formulas can be found here [link].
-
-An interactive Executive Dashboard used to report and explore multidimensional campaign metrics can be found here [link].
+The Executive Dashboard used to report and explore campaign metrics can be found here [link].
 
 
 # Data Structure & Initial Checks
