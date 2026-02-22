@@ -10,9 +10,9 @@ Insights and recommendations are provided on the following key areas:
 - **Category 3:** Audience Segmentation Behavior
 - **Category 4:** Strategic Optimization & Reallocation
 
-The complete dataset sourced and the initial data cleaning steps can be found here [[link](https://www.kaggle.com/datasets/manishabhatt22/marketing-campaign-performance-dataset)].
+The complete dataset can be found here [[link](https://www.kaggle.com/datasets/manishabhatt22/marketing-campaign-performance-dataset)].
 
-The Executive Dashboard used to report and explore campaign metrics can be found here [[link](https://github.com/kdy0820/cpa_optimization/blob/c3d7c9204c8a5b3ab26c694ac1b20e29083221c1/cpa_optimization_dashboard.png)].
+The Excel dashboard used to report and explore campaign metrics can be found here [[link](https://github.com/kdy0820/cpa_optimization/blob/c3d7c9204c8a5b3ab26c694ac1b20e29083221c1/cpa_optimization_dashboard.png)].
 
 
 # Data Structure & Initial Checks
