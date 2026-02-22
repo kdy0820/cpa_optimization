@@ -1,7 +1,7 @@
 # Project Background
-As a B2B technology firm, NexGen Systems relies heavily on strategic outreach to generate qualified leads. Despite a stable marketing budget, the company has recently faced rising Customer Acquisition Costs (CPA) and stagnant ROI. Leadership required a data-driven investigation to determine if our static bidding strategies across various channels (Email, Social Media, YouTube, Search) were failing to account for weekly market fluctuations and audience-specific behaviors.
+As a B2B technology firm, **NexGen Systems** relies heavily on strategic outreach to generate qualified leads. Despite a stable marketing budget, the company has recently faced rising Customer Acquisition Costs (CPA) and stagnant ROI. Leadership required a data-driven investigation to determine if the company's static bidding strategies across various channels (Email, Social Media, YouTube, Search) were failing to account for weekly market fluctuations and audience-specific behaviors.
 
-Acting as a data analyst for NexGen Systems, my objective was to conduct a forensic performance audit using a comprehensive dataset of over 200,000 campaign records spanning two years. By leveraging advanced data engineering and variance modeling in Excel, this project identifies capital inefficiencies and provides a data-backed "Day-Parting" roadmap to optimize marketing spend.
+Acting as a data analyst for NexGen Systems, my objective was to conduct a forensic performance audit using a comprehensive dataset of over 200,000 campaign records spanning two years. By leveraging advanced data engineering and variance modeling in Excel, this project identifies capital inefficiencies and provides a data-backed "Day-Parting" strategy to optimize marketing spend.
 
 Insights and recommendations are provided on the following key areas:
 
